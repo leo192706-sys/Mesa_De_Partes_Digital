@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEONARDO\\Desktop\\FUN_PROG_GRUPO_5\\Consulta_De_Expediente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C8D289-6FCC-4064-B202-26607593A223}|Consulta_De_Expediente\\Consulta_De_Expediente.csproj|c:\\users\\leonardo\\desktop\\fun_prog_grupo_5\\consulta_de_expediente\\consulta_de_expediente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C8D289-6FCC-4064-B202-26607593A223}|Consulta_De_Expediente\\Consulta_De_Expediente.csproj|solutionrelative:consulta_de_expediente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\Desktop\\FUN_PROG_GRUPO_5\\Consulta_De_Expediente\\Consulta_De_Expediente\\Form1.cs",
+              "RelativeDocumentMoniker": "Consulta_De_Expediente\\Form1.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\Desktop\\FUN_PROG_GRUPO_5\\Consulta_De_Expediente\\Consulta_De_Expediente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Consulta_De_Expediente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:39:53.794Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
